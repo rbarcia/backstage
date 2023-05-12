@@ -5,6 +5,6 @@ metadata:
     backstage.io/kubernetes-id: kube-orders
   name: kube-orders
 spec:
-  lifecycle: production
+  lifecycle: development
   owner: my-team
   type: service
